@@ -2,8 +2,6 @@
 window.addEventListener("click", arrRandom);
 //defined the variable pics to equal an array of two images
 let pics = ["images/img1.png", "images/img2.png"];
-//defined the variable page to equal the element "page" 
-let page = document.getElementById("page");
 
 //defined the function arrRandom 
 function arrRandom() {
