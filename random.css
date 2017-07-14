@@ -1,0 +1,13 @@
+body {
+	background-color: slategray;
+
+}
+
+#page {
+	margin: auto;
+}
+
+#pic {
+	padding-left: 500px;
+	padding-top: 100px;
+}
